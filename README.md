@@ -5,4 +5,3 @@ Você foi contratado por uma empresa com mais de 800 mil clientes para um projet
 
 Precisando melhorar seus resultados ela quer conseguir entender os principais motivos desses cancelamentos e quais as ações mais eficientes para reduzir esse número.
 
-Base de dados e arquivos: https://drive.google.com/drive/folders/1uDesZePdkhiraJmiyeZ-w5tfc8XsNYFZ?usp=drive_link
